@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astrea47
-- 👀 I’m interested in software engineering and robotic 
-- 🌱 I’m currently learning in software engineering course
+- 👀 I’m interested in Ai engineering, programmer, machine learning and robotic 
+- 🌱 I’m currently learning in computer science course
 - 📫 How to reach me theastrea74@gmail.com
 
 <!---
